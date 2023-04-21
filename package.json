@@ -1,0 +1,27 @@
+{
+  "name": "threejs-demo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000h\u0000r\u0000e\u0000e\u0000j\u0000s\u0000-\u0000d\u0000e\u0000m\u0000o\u0000",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lscgogogo/threejs-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lscgogogo/threejs-demo/issues"
+  },
+  "homepage": "https://github.com/lscgogogo/threejs-demo#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "three": "^0.151.3"
+  }
+}
